@@ -6,5 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    s="banana"
+
+print ((s.count("banana,'a'")))

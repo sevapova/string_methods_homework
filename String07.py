@@ -6,5 +6,7 @@ def main(s):
     Returns:
         bool: answer
     """
+    s="sevaralatipova"
     
-    return
+    return s
+print ("sevaralatipova".isalpha())

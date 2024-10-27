@@ -6,5 +6,6 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    s="sEVaRa"
+    return s
+print ("sEVaRa".lower())

@@ -6,5 +6,6 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    s="ACVB"
+    return s
+print("ACVB".isupper())

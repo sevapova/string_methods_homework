@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    s="xo'roz"
+    return s.index('x')
+print("xo'roz",'x')

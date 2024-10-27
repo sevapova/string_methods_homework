@@ -7,4 +7,9 @@ def main(s):
         str: answer
     """
     
-    return
+    s="python code"
+    return s
+
+
+print("python code".title())
+    

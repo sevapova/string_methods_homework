@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
+    s="SEVARA LATIPOVA"
+    return s
 
-    return
+print("SEVARA LATIPOVA".lower())

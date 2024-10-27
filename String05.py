@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s="laTIPOVa"
+    return s
+print ("laTIPOVa".upper())
