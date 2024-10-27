@@ -8,4 +8,4 @@ def main(s):
     """
     s="banana"
 
-print ((s.count("banana,'a'")))
+print ((("banana,'a'")))
